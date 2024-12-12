@@ -20,10 +20,10 @@ This is a simple hospital registration form built using PHP and MySQL. It allows
 https://github.com/user-attachments/assets/14fbd3cc-9334-4756-ac10-6ba1e0bf0650
 
 
-## Drive link 
+##  DELETE AND UPDATE Drive link 
 https://drive.google.com/file/d/1UaLonBshyCxavBfiay32IwWcnAhjhQEu/view?usp=drive_link
 
 
-## fatch GET AND POST
+## fatch GET AND POST  Drive link 
 https://drive.google.com/file/d/1ESKgfynaiuaEO-IV1oB00Nh_-T1d2q10/view?usp=sharing
 
