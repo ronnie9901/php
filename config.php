@@ -57,6 +57,12 @@
         $res = mysqli_query($this->connection, $query);
         return $res;
     }
+     public function uploadImage($name)
+  {
+     $query = "INSERT INTO  image (name) VALUES('$name')";
+     $res = mysqli_query($this->connection,$query);
+     return $res;
+  }
 
 }
 
