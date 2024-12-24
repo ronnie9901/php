@@ -1,3 +1,20 @@
+
+
+<h1 > PHP Exam </h1>
+
+# Description
+A CRUD (Create, Read, Update, Delete) API for managing descriptions in PHP is a robust implementation that allows seamless interaction with a backend database to manage data records. Built using PHP, the API typically involves endpoints for creating new descriptions, retrieving existing ones, updating specific entries, and deleting them as required. The backend leverages MySQL or similar databases to store the records, with PHP scripts handling the HTTP requests and corresponding database operations. The structure includes routes for each operation, where POST is used for creating descriptions, GET for fetching data, PUT or PATCH for updates, and DELETE for removal. The API ensures data validation, error handling, and secure data access, often incorporating authentication mechanisms like JWT (JSON Web Tokens). By adhering to RESTful principles, this API design promotes easy integration with front-end applications or third-party systems. Ideal for GitHub repositories, this CRUD API serves as a boilerplate or a starting point for developers building scalable PHP-based applications.
+
+<h3 > PHP Exam Video </h3>
+<div >
+<h2> https://drive.google.com/file/d/1IFCVEeXir-pmNscEiTObUhRhbvdEKy2G/view?usp=sharing</h2>
+</div>
+
+
+
+
+
+
 # 🏥Student Registration Form
 
 This is a simple hospital registration form built using PHP and MySQL. It allows users to register their **Name**, **Age**, **Phone Number**, and **Address**. The data is securely stored in an SQL database.
